@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aspis App</string>
+    <string name="apps_safety">Apps Safety</string>
+    <string name="device_at_high_risk">Device at high Risk!</string>
+    <string name="threat_level">threat_level</string>
+    <string name="error_message">Error in fetching data from Server!</string>
+</resources>
